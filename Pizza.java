@@ -241,7 +241,7 @@ class Pizzen {
                     for (Pizza pizza : pizzaList) {
                         gesamtPreis += Preis;
                     }//warum geht pizza.preis nicht
-                    kk
+                    kp
 
                     lblPreis.setText(String.format("%.2f", gesamtPreis));
                 }
