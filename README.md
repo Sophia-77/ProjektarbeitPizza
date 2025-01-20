@@ -8,12 +8,15 @@ pizza options.
 The project is divided into two main classes "Pizza" and "PizzaBestellung".
 
 Class descriptions:
+
 1. Pizza class
+   
    The "Pizza" class defines the structure of a single pizza order. It includes attributes, a constructor to initialize them and methods to interact with these attributes.
    The attributes represent the details of the pizza and the constructor initializes the pizza attributes when a new pizza object is created.
    Getter and setter methods are used to retrieve and modify the values of the attributes, ensuring encapsulation.
 
 2. PizzaBestellung Class
+   
    The PizzaBestellung class handles the GUI and the core functionality of the application. It extends JFrame to create the graphical interface. The graphical interface includes dropdown
    menus for pizza options, text fields for input and display, buttons for user interactions and a text area to show the order list.
    Our key methods are:
