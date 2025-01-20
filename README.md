@@ -1,3 +1,4 @@
+
  Projektarbeit Pizza🍕
 
 Our project "MiaPizzeria" focuses on a digital menu system that enables users to place their orders quickly and conveniently. This digital solution enhances efficiency by saving valuable
@@ -5,6 +6,7 @@ time for the staff. The system is designed to be both sustainable and user-frien
 pizza options.
 
 The project is divided into two main classes "Pizza" and "PizzaBestellung".
+
 Class descriptions:
 1. Pizza class
    The "Pizza" class defines the structure of a single pizza order. It includes attributes, a constructor to initialize them and methods to interact with these attributes.
