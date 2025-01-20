@@ -17,7 +17,7 @@ Class descriptions:
 
 2. PizzaBestellung Class
    
-   The PizzaBestellung class handles the GUI and the core functionality of the application. It extends JFrame to create the graphical interface. The graphical interface includes dropdown
+   The "PizzaBestellung" class handles the GUI and the core functionality of the application. It extends JFrame to create the graphical interface. The graphical interface includes dropdown
    menus for pizza options, text fields for input and display, buttons for user interactions and a text area to show the order list.
    Our key methods are:
    - Add order (hinzufuegen) adds a new pizza order based on user input and displays it in the GUI.
